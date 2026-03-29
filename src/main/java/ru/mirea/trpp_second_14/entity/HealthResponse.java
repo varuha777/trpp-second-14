@@ -3,6 +3,7 @@ package ru.mirea.trpp_second_14.entity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
+import ru.mirea.trpp_second_14.entity.HealthResponse;
 
 /** Ответ на healthCheck. */
 @Getter
